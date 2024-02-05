@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+img {
+    padding-left: 500px;
+    width: 500px;
+    height: 500px;
+}
+
+p {
+    text-align: center;
+    font-weight: 600;
+    font-size: large;
+}
